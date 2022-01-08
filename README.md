@@ -6,7 +6,7 @@ ATM Application is a command-line interface application for users to log in, che
 
 ## Technologies
 
-This project leverages p
+
 
 This project leverages python 3.7 with the following packages:
 
